@@ -10,7 +10,7 @@ Input:
     - The number of Dominoes.
     - The set of dominos.
 Notes:
-I can include an old file version I worked on that I had given up on, called Mooney-Caitlin-A1.py.
+I included an old file version I worked on that I had given up on, called Mooney-Caitlin-A1.py.
 
 Additional Notes:
 This file may be wonky, I apologize.  I also used some home alone references for fun.
